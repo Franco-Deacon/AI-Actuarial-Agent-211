@@ -1,0 +1,5 @@
+To run the agent, You must first run the following commands in powershell:
+You can find a free Gemini key directly from google 
+
+pip install -r requirements.txt
+$env:GOOGLE_API_KEY='your_api_key_here'
